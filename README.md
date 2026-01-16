@@ -13,5 +13,6 @@ All three modules were developed and tested independently, and later merged into
 One part I spent a lot of time on was real-time mode switching without any physical input.
 If the pinky finger hovers over one of the on-screen mode buttons (Mouse / Keyboard / Volume) for a short duration, the system switches to that mode automatically. This keeps the interaction fully gesture-driven and avoids relying on keyboard shortcuts or manual toggles.
 
-Technical stack: Python, OpenCV, MediaPipe, Autopy, Pynput, Pycaw
+Technical stack: Python, OpenCV, MediaPipe, Autopy, Pynput, Pycaw.
+
 This project aligns with my interest in Computer Vision, Human–Computer Interaction, and real-time systems, and I’m continuing to build more work in this space.
